@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wickstudio/discord-ticket-bot-v3.git"
+    "url": "https://github.com/bhmnyzd/tickitk.git"
   },
-  "author": "Wick Studio",
+  "author": "stavn Studio",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wickstudio/discord-ticket-bot-v3/issues"
+    "url": "https://github.com/bhmnyzd/tickitk.git"
   },
-  "homepage": "https://github.com/wickstudio/discord-ticket-bot-v3#readme",
+  "homepage": "https://github.com/bhmnyzd/tickitk.git",
   "dependencies": {
     "@discordjs/builders": "^1.6.5",
     "better-sqlite3": "^8.7.0",

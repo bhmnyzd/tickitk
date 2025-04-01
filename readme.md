@@ -171,14 +171,9 @@ If you'd like to contribute to the project, feel free to fork the repository and
 2. Create a new branch (`git checkout -b feature-branch`)
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature-branch`)
-5. Open a Pull Request
-
+5. Open 
 ## Contact
 
 Feel free to reach out if you have any questions or need support:
-
-- Discord: [discord.gg/wicks](https://discord.gg/wicks)
-- GitHub: [github.com/wickstudio](https://github.com/wickstudio)
-- Instagram: [@mik__subhi](https://www.instagram.com/mik__subhi/)
 
 Thank you for using this Discord Bot with Dashboard! We hope it helps enhance your server management experience.

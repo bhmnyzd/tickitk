@@ -2,8 +2,8 @@
   "TOKEN": "TOKEN",
   "guildID": "ID",
   "dashboard": {
-    "username": "wick",
-    "password": "wick123",
+    "username": "حط الاسم الي رح تدخل بيه الداشبورد",
+    "password": "وحط باسورد مثلاً 123",
     "port": "3000"
   },
   "BACKGROUND": "",
